@@ -1,0 +1,12 @@
+C:\Lab\github\x01.MagicCube\x01.MagicCube\obj\Debug\MainWindow.baml
+C:\Lab\github\x01.MagicCube\x01.MagicCube\obj\Debug\MainWindow.g.cs
+C:\Lab\github\x01.MagicCube\x01.MagicCube\obj\Debug\App.g.cs
+C:\Lab\github\x01.MagicCube\x01.MagicCube\obj\Debug\x01.MagicCube_MarkupCompile.cache
+C:\Lab\github\x01.MagicCube\x01.MagicCube\obj\Debug\x01.MagicCube.g.resources
+C:\Lab\github\x01.MagicCube\x01.MagicCube\obj\Debug\x01.MagicCube.Properties.Resources.resources
+C:\Lab\github\x01.MagicCube\x01.MagicCube\obj\Debug\x01.MagicCube.csproj.GenerateResource.Cache
+C:\Lab\github\x01.MagicCube\x01.MagicCube\bin\Debug\x01.MagicCube.exe.config
+C:\Lab\github\x01.MagicCube\x01.MagicCube\bin\Debug\x01.MagicCube.exe
+C:\Lab\github\x01.MagicCube\x01.MagicCube\bin\Debug\x01.MagicCube.pdb
+C:\Lab\github\x01.MagicCube\x01.MagicCube\obj\Debug\x01.MagicCube.exe
+C:\Lab\github\x01.MagicCube\x01.MagicCube\obj\Debug\x01.MagicCube.pdb

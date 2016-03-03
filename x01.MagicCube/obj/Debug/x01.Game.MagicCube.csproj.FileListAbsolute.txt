@@ -1,0 +1,16 @@
+C:\Lab\x01\x01.Game\x01.Game.MagicCube\bin\Debug\x01.Game.MagicCube.exe.config
+C:\Lab\x01\x01.Game\x01.Game.MagicCube\bin\Debug\x01.Game.MagicCube.exe
+C:\Lab\x01\x01.Game\x01.Game.MagicCube\bin\Debug\x01.Game.MagicCube.pdb
+C:\Lab\x01\x01.Game\x01.Game.MagicCube\obj\Debug\x01.Game.MagicCube.csprojResolveAssemblyReference.cache
+C:\Lab\x01\x01.Game\x01.Game.MagicCube\obj\Debug\MainWindow.g.cs
+C:\Lab\x01\x01.Game\x01.Game.MagicCube\obj\Debug\App.g.cs
+C:\Lab\x01\x01.Game\x01.Game.MagicCube\obj\Debug\x01.Game.MagicCube_MarkupCompile.cache
+C:\Lab\x01\x01.Game\x01.Game.MagicCube\obj\Debug\MainWindow.baml
+C:\Lab\x01\x01.Game\x01.Game.MagicCube\obj\Debug\x01.Game.MagicCube.g.resources
+C:\Lab\x01\x01.Game\x01.Game.MagicCube\obj\Debug\x01.Game.MagicCube.Properties.Resources.resources
+C:\Lab\x01\x01.Game\x01.Game.MagicCube\obj\Debug\x01.Game.MagicCube.csproj.GenerateResource.Cache
+C:\Lab\x01\x01.Game\x01.Game.MagicCube\obj\Debug\x01.Game.MagicCube.exe
+C:\Lab\x01\x01.Game\x01.Game.MagicCube\obj\Debug\x01.Game.MagicCube.pdb
+C:\Lab\github\x01.MagicCube\x01.Game.MagicCube\bin\Debug\x01.Game.MagicCube.exe.config
+C:\Lab\github\x01.MagicCube\x01.Game.MagicCube\obj\Debug\x01.Game.MagicCube.exe
+C:\Lab\github\x01.MagicCube\x01.Game.MagicCube\obj\Debug\x01.Game.MagicCube.pdb
